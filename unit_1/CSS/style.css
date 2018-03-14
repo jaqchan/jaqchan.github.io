@@ -1,4 +1,8 @@
-body {background-color: cadetblue;
+body {
+	font-family: "Verdana";
+	background-color: darkseagreen;
 }
-h1, p ( color: whitesmoke;
+h1, p {
+	font-family: "Verdana";
+	color: whitesmoke;
 	)
